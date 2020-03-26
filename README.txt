@@ -1,6 +1,10 @@
-This is updated version of Java2Demo. It can runs under JDK11 now.
+This is an updated version of Java2Demo. It can run under JDK11 now. It's useful for demonstrating GC logging in both JDK8 and JDK11. 
 
-This application is based on Java2Demo created by Oracle.
+This application is based on Java2Demo created (and abandoned) by Oracle.
+Samples and demos were abandoned in JDK9 due to lack of maintanance and no-longer-state-of-the-art practices within.
+Details and rationale behind the abandonment may be found in JEP298: https://openjdk.java.net/jeps/298.
+
+Please note: this is a derivative of Oracle's work. If Oracle wants it down (I don't think it will, but still), it will be taken down.
 
 -----------------------------------------------------------------------
 Original README
@@ -171,4 +175,3 @@ page:
 
 http://java.sun.com/products/java-media/2D/samples/
 http://java.sun.com/products/java-media/2D/samples/suite/
-
