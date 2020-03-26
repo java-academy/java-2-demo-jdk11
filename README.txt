@@ -1,4 +1,12 @@
-The classes for the Java2D demo are contained in the Java2Demo.jar file.  
+This is updated version of Java2Demo. It can runs under JDK11 now.
+
+This application is based on Java2Demo created by Oracle.
+
+-----------------------------------------------------------------------
+Original README
+-----------------------------------------------------------------------
+
+The classes for the Java2D demo are contained in the Java2Demo.jar file.
 To run the Java2D demo:
 
 % java -jar Java2Demo.jar
